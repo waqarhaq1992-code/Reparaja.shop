@@ -1,2 +1,2 @@
-# Reparaja.shop
+# reparaja.shop
 Online repair service website 
